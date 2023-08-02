@@ -38,7 +38,7 @@
     <groupId>cobertura</groupId>
     <artifactId>cobertura</artifactId>
     <version>1.8</version>
-</dependency
+</dependency>
     
   </dependencies>
 
