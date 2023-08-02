@@ -32,6 +32,13 @@
     <version>2.0</version>
     <scope>test</scope>
 </dependency>
+    </dependency>
+    <!-- https://mvnrepository.com/artifact/cobertura/cobertura -->
+    <dependency>
+    <groupId>cobertura</groupId>
+    <artifactId>cobertura</artifactId>
+    <version>1.8</version>
+</dependency
     
   </dependencies>
 
